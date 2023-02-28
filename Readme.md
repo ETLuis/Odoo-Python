@@ -45,4 +45,4 @@ Después de tener la conexión hecha con la base datos procedemos a la instalaci
 Una vez aquí solo tendremos que rellenar los campos que necesita el odoo y darle a "create database".
 ![image](https://user-images.githubusercontent.com/91607146/213925887-498644c8-a161-4404-891b-146490e26381.png)
 
-Y ya tendríamos el **Odoo**!!
+Y ya tendríamos el **Odoo**!! 
